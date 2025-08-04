@@ -27,6 +27,16 @@ A clean, responsive landing page built using **HTML** and **CSS**, designed to a
 
 ## 📁 Project Structure
 
+
+---
+
+## 🌐 Live Demo
+
+🔗 [View Live](https://piratekingh.github.io/responsive-landing-page/)  
+
+
+---
+
 ## ✏️ Customization
 
 You can easily:
